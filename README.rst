@@ -1,5 +1,5 @@
 *****************************************************
-Salish Sea NEMO Model Rivers Runoff climatology Files
+Salish Sea NEMO Model Rivers Runoff Climatology Files
 *****************************************************
 
 Rivers runoff climatology files for the Salish Sea NEMO model.
