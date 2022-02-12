@@ -9,7 +9,8 @@ Salish Sea NEMO Model Rivers Runoff Climatology Files
     :alt: Licensed under the Apache License, Version 2.0
 
 Rivers runoff climatology files for the Salish Sea NEMO model.
-Included are discharge, temperature, nutrients & biological tracers, and depths over which river quantities are introduced into model grid.
+Included are discharge, temperature, nutrients & biological tracers,
+and depths over which river quantities are introduced into model grid.
 Files for AGRIF sub-grids are in appropriately names sub-directories of the subgrids/ directory.
 
 Many of these files originated in the (private) https://bitbucket.org/salishsea/nemo-forcing repository.
@@ -23,9 +24,10 @@ License
     :target: https://www.apache.org/licenses/LICENSE-2.0
     :alt: Licensed under the Apache License, Version 2.0
 
-The Salish Sea NEMO model rivers runoff climatology files are copyright 2013-2021 by the `Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
+The Salish Sea NEMO model rivers runoff climatology files are copyright 2013 – present by the 
+`Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
 
-.. _Salish Sea MEOPAR Project Contributors: https://github.com/SalishSeaCast/docs/blob/master/CONTRIBUTORS.rst
+.. _Salish Sea MEOPAR Project Contributors: https://github.com/SalishSeaCast/docs/blob/main/CONTRIBUTORS.rst
 
 They are licensed under the Apache License, Version 2.0.
 http://www.apache.org/licenses/LICENSE-2.0
